@@ -57,4 +57,5 @@ A secure, modern online auction platform with robust backend and engaging UI.
 ---
 
 ## 📬 Let's Connect
-I'm always open to discussing new projects, collaborations, or career opportunities in Artificial Intelligence and beyond. Feel free to reach out via [email](mailto:andremdesousa@gmail.com) or connect with me on [LinkedIn](https://linkedin.com/in/afgmsousa).
+I'm always open to discussing new projects, collaborations, or career opportunities in Artificial Intelligence and beyond. Feel free to reach out!
+[📧 Email](mailto:andremdesousa@gmail.com) | [🔗 Connect on LinkedIn](https://linkedin.com/in/afgmsousa)
