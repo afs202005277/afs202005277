@@ -40,7 +40,7 @@ Below is a curated list of my most relevant projects.
 
 ---
 
-### [PollutionDataMining](https://github.com/afs202005277/PollutionDataMining)  
+### [CovidDataMining](https://github.com/afs202005277/CovidDataMining)  
 **Grade:** 19/20  
 **Description:**  
 Machine Learning has advanced with complex "black-box" models that, despite their accuracy, often lack transparency. This project addresses Explainable AI (XAI) by improving the interpretability of models predicting adverse reactions to COVID-19 vaccines through the integration of environmental data.
@@ -84,7 +84,7 @@ A modern, user-friendly online auction platform designed to provide a secure and
 
 ## Get in Touch
 
-I'm always open to discussing new projects, collaborations, or career opportunities in Artificial Intelligence and beyond. Feel free to reach out via email or connect with me on [LinkedIn](https://linkedin.com/in/afgmsousa).
+I'm always open to discussing new projects, collaborations, or career opportunities in Artificial Intelligence and beyond. Feel free to reach out via [email](mailto:andremdesousa@gmail.com) or connect with me on [LinkedIn](https://linkedin.com/in/afgmsousa).
 
 ---
 
