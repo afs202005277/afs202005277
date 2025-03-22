@@ -1,12 +1,12 @@
 # Hi there, I'm André Sousa 👋
 
-Welcome to my GitHub profile! I'm a passionate AI enthusiast and software engineer from Porto, Portugal, with a strong background in machine learning, deep learning, and software development. Whether I'm working on cutting-edge AI research or building robust applications, I strive to deliver clean, efficient, and well-documented code.
+Welcome to my GitHub profile! I'm a passionate AI enthusiast and software engineer from Porto, Portugal, with a strong background in machine learning, deep learning, and software development. Whether I'm working on cutting-edge AI research or building robust applications, I strive to deliver clean, efficient, and accurate code.
 
 ---
 
 ## About Me
 
-I'm currently juggling several roles as I pursue my academic and professional passions:
+I'm currently juggling several roles:
 
 - **MSc in Informatics and Computing Engineering @ [FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial) (2nd Year)**  
   Deepening my knowledge in advanced computing techniques and AI methodologies.
@@ -27,16 +27,16 @@ I'm passionate about leveraging Artificial Intelligence to solve real-world prob
 
 ## Skills & Technologies
 
-- **Programming Languages:** Python, Java, SQL
-- **AI & Machine Learning:** TensorFlow, PyTorch, scikit-learn, Convolutional Neural Networks (CNNs), Explainable AI (XAI)
-- **Web Development:** FastAPI, RESTful APIs, Docker, PostgreSQL
-- **Other:** Git, Apache Kafka, Compiler Design, Data Analysis
+- **Main Programming Languages:** Python, Java, SQL
+- **AI & Machine Learning:** PyTorch, scikit-learn, Computer Vision, Deep Learning
+- **Web Development:** FastAPI, RESTful APIs, Docker, PostgreSQL, Laravel
+- **Other:** Git, Apache Kafka, Data Analysis, Agile Software Development 
 
 ---
 
 ## Projects
 
-Below is a curated list of my most relevant projects. Each project includes a brief description, the grade achieved, and a link to its GitHub repository.
+Below is a curated list of my most relevant projects.
 
 ---
 
